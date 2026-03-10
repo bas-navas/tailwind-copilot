@@ -1,2 +1,2 @@
 # LESSON คอร์สเรียน tailwindCss
-กำลังศึกษา บทที่ 5
+กำลังศึกษา Card List Loop Card
