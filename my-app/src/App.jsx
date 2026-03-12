@@ -4,6 +4,7 @@ import FormLayout from './component/FormLayout'
 import FlexRowLayout from './component/FlexRowLayout'
 import ErrorMessage from './component/ErrorMessage'
 import CardList from './component/CardList'
+import NavbarUI from './component/NavbarUI'
 
 
 function App() {
@@ -11,7 +12,8 @@ function App() {
 
   return (
     <>
-     <CardList/>
+    <NavbarUI/>
+     {/* <CardList/> */}
     </>
   )
 }
