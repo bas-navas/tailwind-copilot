@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+@layer base {
+html {
+    /* ท่าไม้ตายที่คุณชอบ */
+    scrollbar-gutter: stable;
+  }
+}

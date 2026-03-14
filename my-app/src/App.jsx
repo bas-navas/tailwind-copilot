@@ -5,6 +5,7 @@ import FlexRowLayout from './component/FlexRowLayout'
 import ErrorMessage from './component/ErrorMessage'
 import CardList from './component/CardList'
 import NavbarUI from './component/NavbarUI'
+import HeroUI from './component/HeroUI'
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
   return (
     <>
     <NavbarUI/>
+    <HeroUI/>
      {/* <CardList/> */}
     </>
   )
