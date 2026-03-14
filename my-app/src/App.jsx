@@ -6,16 +6,15 @@ import ErrorMessage from './component/ErrorMessage'
 import CardList from './component/CardList'
 import NavbarUI from './component/NavbarUI'
 import HeroUI from './component/HeroUI'
+import FeatureSection from './component/FeatureSection'
 
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
     <NavbarUI/>
     <HeroUI/>
-     {/* <CardList/> */}
+    <FeatureSection/>
     </>
   )
 }
