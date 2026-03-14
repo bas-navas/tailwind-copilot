@@ -34,7 +34,7 @@ function FeatureSection() {
                         group-hover:text-white group-hover:bg-blue-500 transition'>
                             <Shield className='w-8 h-8' />
                         </div>
-                        <h3 className='text-lg font-bold mb-2'>
+                        <h3 className='text-lg font-bold mb-2 group-hover:text-blue-500 transition'>
                             Secure System
                         </h3>
                         <p className='text-sm text-gray-500'>
@@ -49,7 +49,7 @@ function FeatureSection() {
                         group-hover:text-white group-hover:bg-blue-500 transition'>
                             <Cloud className='w-8 h-8' />
                         </div>
-                        <h3 className='text-lg font-bold mb-2'>
+                        <h3 className='text-lg font-bold mb-2 group-hover:text-blue-500 transition'>
                             Cloud Based
                         </h3>
                         <p className='text-sm text-gray-500'>
